@@ -1,8 +1,8 @@
-## Overview:
+## Overview
 
 The ATM Interface project is a Java console-based application that emulates the functionality of an Automated Teller Machine (ATM). It comprises five main classes - ATM, Bank, Account, Transaction and User - that collaborate to provide various banking operations such as transaction history, withdrawals, deposits, transfers, and quitting the application.
 
-## Classes and their Functionalities:
+## Classes and their Functionalities
 
 * **ATM**: This class serves as the entry point of the application and presents the main menu to the user for interaction. It displays options for different banking operations and manages user input to execute the selected operation.
 
@@ -14,7 +14,7 @@ The ATM Interface project is a Java console-based application that emulates the 
 
 * **Transaction**: This class represents a transaction and stores information such as the transaction type (withdrawal, deposit, transfer), transaction amount, and transaction date/time. It is used to maintain transaction history for each account.
 
-## Functionality:
+## Functionality
 The ATM Interface project provides the following functionalities:
 
 > **Transaction History**: Users can view the transaction history of their account, which displays the details of all transactions performed on the account, including transaction type, amount, and date/time.
@@ -27,7 +27,7 @@ The ATM Interface project provides the following functionalities:
 
 > **Quit**: Users can exit the application at any time by selecting the quit option from the main menu.
 
-## Usage:
+## Usage
 To use the ATM Interface project, follow these steps:
 
 1. Compile and run the Java program, starting with the ATM class, which serves as the entry point of the application.
@@ -42,6 +42,6 @@ To use the ATM Interface project, follow these steps:
 
 6. Users can view the transaction history, withdraw, deposit, transfer, or quit the application as needed.
 
-## Conclusion:
+## Conclusion
 
 The ATM Interface project is a Java console-based application that emulates the functionality of an ATM. It provides various banking operations such as transaction history, withdrawals, deposits, transfers, and quitting the application. The project employs four main classes - ATM, Bank, Account, and User - that work together to deliver the desired functionalities. Users can interact with the ATM through the main menu and perform banking operations based on their requirements.
