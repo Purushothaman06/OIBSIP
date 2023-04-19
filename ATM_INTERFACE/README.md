@@ -17,15 +17,15 @@ The ATM Interface project is a Java console-based application that emulates the 
 ## Functionality
 The ATM Interface project provides the following functionalities:
 
-> **Transaction History**: Users can view the transaction history of their account, which displays the details of all transactions performed on the account, including transaction type, amount, and date/time.
+* **Transaction History**: Users can view the transaction history of their account, which displays the details of all transactions performed on the account, including transaction type, amount, and date/time.
 
-> **Withdrawals**: Users can withdraw money from their account by specifying the withdrawal amount. The ATM and Bank classes handle validations, such as checking if the withdrawal amount is within the account balance and if the ATM has sufficient cash to dispense.
+* **Withdrawals**: Users can withdraw money from their account by specifying the withdrawal amount. The ATM and Bank classes handle validations, such as checking if the withdrawal amount is within the account balance and if the ATM has sufficient cash to dispense.
 
-> **Deposits**: Users can deposit money into their account by specifying the deposit amount. The ATM and Bank classes handle validations, such as checking if the deposit amount is valid.
+* **Deposits**: Users can deposit money into their account by specifying the deposit amount. The ATM and Bank classes handle validations, such as checking if the deposit amount is valid.
 
-> **Transfers**: Users can transfer money from their account to another account within the same bank by specifying the target account number and transfer amount. The ATM and Bank classes handle validations, such as checking if the target account number is valid and if the transfer amount is within the account balance.
+* **Transfers**: Users can transfer money from their account to another account within the same bank by specifying the target account number and transfer amount. The ATM and Bank classes handle validations, such as checking if the target account number is valid and if the transfer amount is within the account balance.
 
-> **Quit**: Users can exit the application at any time by selecting the quit option from the main menu.
+* **Quit**: Users can exit the application at any time by selecting the quit option from the main menu.
 
 ## Usage
 To use the ATM Interface project, follow these steps:
